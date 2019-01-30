@@ -7,5 +7,6 @@
 - [spring-boot-jpa-thymeleaf-curd](https://github.com/wander-chu/java-microservice-demo/tree/master/spring-boot-jpa-thymeleaf-curd)&nbsp;&nbsp;Spring Boot+JPA+Thymeleaf实现增删改查示例
 
 ## 资源推荐
-[Spring Boot 中文导航](http://springboot.fun/)&nbsp;&nbsp;|&nbsp;&nbsp;[Spring Cloud 中文网](https://springcloud.cc/)
-**[Favorites-web](https://github.com/cloudfavorites/favorites-web)：云收藏（Spring Boot 2.0 实战开源项目）**
+- [Spring Boot 中文导航](http://springboot.fun/)
+- [Spring Cloud 中文网](https://springcloud.cc/)
+- [Favorites-web](https://github.com/cloudfavorites/favorites-web)：云收藏（Spring Boot 2.0 实战开源项目）
