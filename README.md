@@ -8,3 +8,4 @@
 
 ## 资源推荐
 [Spring Boot 中文导航](http://springboot.fun/)&nbsp;&nbsp;|&nbsp;&nbsp;[Spring Cloud 中文网](https://springcloud.cc/)
+**[Favorites-web](https://github.com/cloudfavorites/favorites-web)：云收藏（Spring Boot 2.0 实战开源项目）**
