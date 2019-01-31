@@ -1,0 +1,6 @@
+springboottest\domain\User.class
+springboottest\repository\UserRepository.class
+springboottest\controller\UserController.class
+springboottest\service\impl\UserServiceImpl.class
+springboottest\ThymeleafJpaApplication.class
+springboottest\service\UserService.class
