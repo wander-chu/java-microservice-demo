@@ -1,0 +1,12 @@
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://212.64.70.181:3306/test?useUnicode=true&characterEncoding=utf-8&serverTimezone=UTC&useSSL=true
+    username: root
+    password: 123456
+  jpa:
+    hibernate:
+      ddl-auto: validate
+    show-sql: true
+  thymeleaf:
+    cache: true

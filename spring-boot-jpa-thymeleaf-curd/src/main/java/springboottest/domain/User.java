@@ -1,4 +1,4 @@
-package com.example.thymeleaf_jpa.domain;
+package springboottest.domain;
 
 import net.bytebuddy.dynamic.loading.InjectionClassLoader;
 

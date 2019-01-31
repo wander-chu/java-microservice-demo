@@ -1,6 +1,6 @@
-package com.example.thymeleaf_jpa.repository;
+package springboottest.repository;
 
-import com.example.thymeleaf_jpa.domain.User;
+import springboottest.domain.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 

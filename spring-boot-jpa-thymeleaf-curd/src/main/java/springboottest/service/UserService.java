@@ -1,6 +1,6 @@
-package com.example.thymeleaf_jpa.service;
+package springboottest.service;
 
-import com.example.thymeleaf_jpa.domain.User;
+import springboottest.domain.User;
 
 import java.util.List;
 

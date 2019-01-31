@@ -1,8 +1,8 @@
-package com.example.thymeleaf_jpa.service.impl;
+package springboottest.service.impl;
 
-import com.example.thymeleaf_jpa.domain.User;
-import com.example.thymeleaf_jpa.repository.UserRepository;
-import com.example.thymeleaf_jpa.service.UserService;
+import springboottest.domain.User;
+import springboottest.repository.UserRepository;
+import springboottest.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

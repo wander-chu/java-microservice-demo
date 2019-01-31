@@ -1,4 +1,4 @@
-package com.example.thymeleaf_jpa;
+package springboottest;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

@@ -1,7 +1,7 @@
-package com.example.thymeleaf_jpa.controller;
+package springboottest.controller;
 
-import com.example.thymeleaf_jpa.domain.User;
-import com.example.thymeleaf_jpa.service.UserService;
+import springboottest.domain.User;
+import springboottest.service.UserService;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.RequestMapping;
