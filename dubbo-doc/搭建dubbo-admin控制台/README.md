@@ -3,7 +3,7 @@
 
 **1.下载源码**
 
-下载地址：https://github.com/apache/incubator-dubbo/tree/dubbo-2.5.8。
+下载地址：https://github.com/apache/incubator-dubbo/tree/dubbo-2.5.8
 
 你也可以选择下载其它的版本。
 
