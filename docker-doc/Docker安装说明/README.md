@@ -1,4 +1,4 @@
-## Docker安装
+## Docker安装说明
 ### 一.CentOS上安装Docker
 **1.查看内核版本**
 
