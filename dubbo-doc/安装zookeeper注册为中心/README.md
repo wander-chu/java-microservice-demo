@@ -3,7 +3,9 @@
 
 **1.下载zookeeper**
 
-下载地址：file:///C:/Users/wander/Downloads/zookeeper-3.4.12.tar.gz。也可以去官网下载想要的版本，官网地址：http://zookeeper.apache.org/releases.html
+下载地址：http://mirrors.shu.edu.cn/apache/zookeeper/stable/zookeeper-3.4.12.tar.gz。
+
+也可以去官网下载想要的版本，官网地址：http://zookeeper.apache.org/releases.html
 
 **2.修改配置**
 
