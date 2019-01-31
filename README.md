@@ -4,7 +4,7 @@
 ---
 
 ## 示例代码
-- [spring-boot-jpa-thymeleaf-curd](https://github.com/wander-chu/java-microservice-demo/tree/master/spring-boot-jpa-thymeleaf-curd)&nbsp;&nbsp;Spring Boot+JPA+Thymeleaf实现增删改查示例
+- [spring-boot-jpa-thymeleaf-curd](spring-boot-jpa-thymeleaf-curd/)&nbsp;&nbsp;Spring Boot+JPA+Thymeleaf实现增删改查示例
 
 ## 资源推荐
 - [Spring Boot 中文导航](http://springboot.fun/)
