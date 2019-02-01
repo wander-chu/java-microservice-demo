@@ -36,7 +36,7 @@ Sping Boot整合Dubbo。
 
 生产者添加内容如下：
 
-	java/integration/web/config/DubboConfig.java
+	java/integration/service/config/DubboConfig.java
 	resources/dubbo/dubbo-provider.xml
 	resources/dubbo/dubbo.properties
 
