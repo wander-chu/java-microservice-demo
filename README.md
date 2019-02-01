@@ -7,6 +7,7 @@
 - [spring-boot-jpa-thymeleaf-curd](spring-boot-jpa-thymeleaf-curd/)&nbsp;&nbsp;Spring Boot+JPA+Thymeleaf实现增删改查示例
 - [spring-boot-docker](spring-boot-docker/)&nbsp;&nbsp;Sping Boot使用远程Docker部署
 - [spring-boot-integration](spring-boot-integration/)&nbsp;&nbsp;Sping Boot多模块示例
+- [spring-boot-dubbo](spring-boot-dubbo/)&nbsp;&nbsp;Sping Boot整合Dubbo
 
 ## 资源推荐
 - [Spring Boot 中文导航](http://springboot.fun/)
