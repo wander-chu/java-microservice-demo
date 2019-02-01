@@ -4,7 +4,7 @@ Dubbo学习文档。
 ---
 
 ## 学习文档
-- [安装zookeeper注册为中心](安装zookeeper注册为中心/)
+- [安装zookeeper注册中心](安装zookeeper注册中心/)
 - [搭建dubbo-admin控制台](搭建dubbo-admin控制台/)
 
 ## 资源推荐
