@@ -9,6 +9,7 @@
 - [spring-boot-docker](spring-boot-docker/)&nbsp;&nbsp;Sping Boot使用远程Docker部署
 - [spring-boot-integration](spring-boot-integration/)&nbsp;&nbsp;Sping Boot多模块示例
 - [spring-boot-dubbo](spring-boot-dubbo/)&nbsp;&nbsp;Sping Boot整合Dubbo
+- [spring-boot-mybatis](https://github.com/wander-chu/spring-boot-mybatis)  &nbsp;Spring Boot集成MyBatis，分页插件PageHelper，通用Mapper，MyBatis的关联表查询
 
 ## 资源推荐
 - [Spring Boot 中文导航](http://springboot.fun/)
