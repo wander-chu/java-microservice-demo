@@ -10,6 +10,7 @@
 - [spring-boot-integration](spring-boot-integration/)&nbsp;&nbsp;Sping Boot多模块示例
 - [spring-boot-dubbo](spring-boot-dubbo/)&nbsp;&nbsp;Sping Boot整合Dubbo
 - [spring-boot-mybatis](https://github.com/wander-chu/spring-boot-mybatis)  &nbsp;Spring Boot集成MyBatis，分页插件PageHelper，通用Mapper，MyBatis的关联表查询
+- [spring-boot-security](https://github.com/wander-chu/spring-boot-security)  &nbsp;Spring Boot基于Spring Security的安全管理
 - 持续更新……
 
 ## 资源推荐
