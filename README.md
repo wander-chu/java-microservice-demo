@@ -1,4 +1,4 @@
-# Java Microservice Demo
+# 基于Java的微服务实践
 基于Java的微服务实践。包括Spring Boot开发Web应用、Sping Boot的Docker部署、Dubbo微服务实践等。
 
 ---
@@ -10,6 +10,7 @@
 - [spring-boot-integration](spring-boot-integration/)&nbsp;&nbsp;Sping Boot多模块示例
 - [spring-boot-dubbo](spring-boot-dubbo/)&nbsp;&nbsp;Sping Boot整合Dubbo
 - [spring-boot-mybatis](https://github.com/wander-chu/spring-boot-mybatis)  &nbsp;Spring Boot集成MyBatis，分页插件PageHelper，通用Mapper，MyBatis的关联表查询
+- 持续更新……
 
 ## 资源推荐
 - [Spring Boot 中文导航](http://springboot.fun/)
