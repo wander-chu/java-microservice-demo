@@ -12,6 +12,7 @@
 - [spring-boot-mybatis](https://github.com/wander-chu/spring-boot-mybatis)  &nbsp;Spring Boot集成MyBatis，分页插件PageHelper，通用Mapper，MyBatis的关联表查询
 - [spring-boot-security](https://github.com/wander-chu/spring-boot-security)  &nbsp;Spring Boot基于Spring Security的安全管理
 - [spring-boot-jersey](spring-boot-jersey/)&nbsp;&nbsp;Spring Boot集成Jersey
+- [spring-boot-swagger](spring-boot-swagger/)&nbsp;&nbsp;Spring Boot集成Swagger2
 - 持续更新……
 
 ## 资源推荐

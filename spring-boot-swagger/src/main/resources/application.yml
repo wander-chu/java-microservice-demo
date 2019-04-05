@@ -1,0 +1,13 @@
+# swagger 配置
+swagger:
+  title: API示例
+  desc: 基于springBoot编写的RESful-API
+  version: 0.0.1.SNAPSHOT
+  termsOfServiceUrl: javascript:void(0)
+  license: Apache 2.0
+  licenseUrl: http://www.apache.org/licenses/LICENSE-2.0.html
+  basePackage: com.example.springbootswagger.controller
+  groupName: 默认API示例分组
+  contactName: wander
+  contactUrl: https://github.com/wander-chu
+  contactEmail: 362207958@qq.com
