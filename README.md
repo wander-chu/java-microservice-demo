@@ -13,6 +13,7 @@
 - [spring-boot-security](https://github.com/wander-chu/spring-boot-security)  &nbsp;Spring Boot基于Spring Security的安全管理
 - [spring-boot-jersey](spring-boot-jersey/)&nbsp;&nbsp;Spring Boot集成Jersey
 - [spring-boot-swagger](spring-boot-swagger/)&nbsp;&nbsp;Spring Boot集成Swagger2
+- [spring-cloud-demo](spring-cloud-demo/)&nbsp;&nbsp;Spring Cloud示例
 - 持续更新……
 
 ## 资源推荐
