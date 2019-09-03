@@ -21,7 +21,6 @@ public class DataSourceConfig {
     @Primary
     @Bean(name = "masterDataSource")
     @Qualifier("masterDataSource")
-    @ConfigurationProperties(prefix = "spring.datasource.master")
     public DataSource masterDataSource(@Qualifier("masterDataSourceProperties") DataSourceProperties dataSourceProperties) {
         return dataSourceProperties.initializeDataSourceBuilder().build();
     }
@@ -36,7 +35,6 @@ public class DataSourceConfig {
 
     @Bean(name = "slaveDataSource")
     @Qualifier("slaveDataSource")
-    @ConfigurationProperties(prefix = "spring.datasource.slave")
     public DataSource slaveDataSource(@Qualifier("slaveDataSourceProperties") DataSourceProperties dataSourceProperties) {
         return dataSourceProperties.initializeDataSourceBuilder().build();
     }

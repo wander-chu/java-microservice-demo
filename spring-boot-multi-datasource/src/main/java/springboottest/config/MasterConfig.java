@@ -2,6 +2,7 @@ package springboottest.config;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Qualifier;
+import org.springframework.boot.autoconfigure.condition.ConditionalOnProperty;
 import org.springframework.boot.autoconfigure.orm.jpa.HibernateProperties;
 import org.springframework.boot.autoconfigure.orm.jpa.HibernateSettings;
 import org.springframework.boot.autoconfigure.orm.jpa.JpaProperties;
@@ -26,6 +27,7 @@ import java.util.Map;
         entityManagerFactoryRef = "masterEntityManagerFactory",
         transactionManagerRef = "masterTransactionManager",
         basePackages = {"springboottest.database.master"})
+@ConditionalOnProperty(prefix = "spring.datasource.master", name = "enable", havingValue = "true")
 public class MasterConfig {
     @Autowired
     private HibernateProperties hibernateProperties;

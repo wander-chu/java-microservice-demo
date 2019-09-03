@@ -27,7 +27,7 @@ import java.util.Map;
         entityManagerFactoryRef = "slaveEntityManagerFactory",
         transactionManagerRef = "slaveTransactionManager",
         basePackages = {"springboottest.database.slave"})
-@ConditionalOnProperty(prefix = "spring.datasource.enable", name = "slave", havingValue = "true")
+@ConditionalOnProperty(prefix = "spring.datasource.slave", name = "enable", havingValue = "true")
 public class SlaveConfig {
     @Autowired
     @Qualifier("slaveDataSource")
